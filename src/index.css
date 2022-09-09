@@ -128,3 +128,15 @@ text-shadow: -3px 1px 0px #090000;
   color:#090000;
   margin-right: 20px;
 }
+
+
+@media screen and (max-width: 1290px){
+  .title {
+    position: relative;
+    bottom: 650px;
+    z-index: 1;
+    color: #f5f4f8;
+    margin-left: 50px;
+    width: 50%;
+}
+}
